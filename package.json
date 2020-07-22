@@ -1,0 +1,22 @@
+{
+  "name": "mail-client",
+  "version": "1.0.0",
+  "description": "Simple mail archival api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humzabj/baseline-node-server.git"
+  },
+  "author": "Humza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humzabj/baseline-node-server/issues"
+  },
+  "homepage": "https://github.com/Humzabj/baseline-node-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
