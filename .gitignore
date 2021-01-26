@@ -1,4 +1,6 @@
 node_modules
+aws-config.js
 
 # dependencies
 /node_modules
+/aws-config.js
